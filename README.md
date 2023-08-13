@@ -7,6 +7,7 @@
 Analyzing superstore sales data is essential for business owners, managers, and analysts to gain insights into the performance of individual stores or the entire business. It enables them to identify trends, make informed business decisions, and derive valuable insights.
 
 >And here are the key aspects of superstore sales analysis:
+## Key Aspects
 
 1. _Sales Revenue_: >Tracking the total sales revenue over time provides insights into the overall financial performance of the superstore. It helps identify peak seasons and periods of high or low sales.
 
